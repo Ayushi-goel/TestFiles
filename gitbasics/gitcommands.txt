@@ -1,0 +1,6 @@
+$git init 
+/*initialise git repository*/
+$git add -A
+/*add all the containing files to local repositiries or staged file*/
+$git commit -m "your message"
+/*commit your project version with your message*/ 

@@ -1,0 +1,4 @@
+git log command is used for seeing the history of all the files with all the changes recording in it.
+
+if we use git log -p then it shows detailed summary of all the files.
+
