@@ -1,0 +1,22 @@
+Move Tool (Keyboard: V)
+
+The move tool simply lets you move objects in a given layer around the Photoshop canvas. To use it, click anywhere on the canvas and drag. As you drag, the Photoshop layer will move with your mouse.
+Marquee (Keyboard: M)
+
+The marquee lets you select part of the canvas in a specific shape. By default you get a rectangular (or perfect square if you hold down shift while selecting), but you can also select in the shape of an ellipse (or a perfect circle if you hold down shift while selecting).
+Lasso (Keyboard: L)
+
+The lasso is a free-form selection tool that lets you drag around the canvas and select anything the lasso'd area covers. Within this tool you also have access to the polygonal lasso, which lets you create a selection by clicking around on the canvas and creating points, and the magnetic lasso, which works the same as the regular lasso but attempts to detect edges for you and automatically snap to them.
+Magic Wand (Keyboard: W)
+
+Clicking an area with the magic wand will tell Photoshop to select the spot you clicked on and anything around it that's similar. This tool can be used as a crude way to remove backgrounds from photos.
+Crop Tool (Keyboard: C)
+
+The crop tool is used to (surprise!) crop your pictures. You can specify the exact size and constrain the crop tool to those proportions, or you can just crop to any size you please.
+Eyedropper (Keyboard: I)
+
+The eyedropper tool lets you click on any part of the canvas and sample the color at that exact point. The eyedropper will change your foreground color to whatever color it sampled from the canvas.
+Healing Brush (Keyboard: J)
+
+The healing brush lets you sample part of the photograph and use it to paint over another part. Once you're finished, Photoshop will examine surrounding areas and try to blend what you painted in with the rest of the picture.
+Paintbr
